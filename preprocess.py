@@ -22,3 +22,4 @@ if __name__ == '__main__':
     val_set=DataSets("resource\\val", "val_set")
     train_set = DataSets("resource\\train", "train_set")
     test_set=DataSets("resource\\test","test_set")
+
